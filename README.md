@@ -1,8 +1,9 @@
-[![Version](http://img.shields.io/packagist/v/bit3/composer-global-depends.svg?style=flat-square)](https://packagist.org/packages/bit3/composer-global-depends)
-[![Stable Build Status](http://img.shields.io/travis/bit3/composer-global-depends/master.svg?style=flat-square)](https://travis-ci.org/bit3/composer-global-depends)
-[![Upstream Build Status](http://img.shields.io/travis/bit3/composer-global-depends/develop.svg?style=flat-square)](https://travis-ci.org/bit3/composer-global-depends)
-[![License](http://img.shields.io/packagist/l/bit3/composer-global-depends.svg?style=flat-square)](https://github.com/bit3/composer-global-depends/blob/master/LICENSE)
-[![Downloads](http://img.shields.io/packagist/dt/bit3/composer-global-depends.svg?style=flat-square)](https://packagist.org/packages/bit3/composer-global-depends)
+[![Version](https://img.shields.io/packagist/v/bit3/composer-global-depends.svg?style=flat-square)](https://packagist.org/packages/bit3/composer-global-depends)
+[![Stable Build Status](https://img.shields.io/travis/bit3/composer-global-depends/master.svg?style=flat-square)](https://travis-ci.org/bit3/composer-global-depends)
+[![Code Quality](https://img.shields.io/scrutinizer/g/bit3/composer-global-depends.svg?style=flat-square)](https://scrutinizer-ci.com/g/bit3/composer-global-depends/)
+[![Dependencies](https://img.shields.io/versioneye/d//bit3/composer-global-depends.svg?style=flat-square)](https://www.versioneye.com/user/projects/54cccc89de7924f81a00033f)
+[![License](https://img.shields.io/packagist/l/bit3/composer-global-depends.svg?style=flat-square)](https://github.com/bit3/composer-global-depends/blob/master/LICENSE)
+[![Downloads](https://img.shields.io/packagist/dt/bit3/composer-global-depends.svg?style=flat-square)](https://packagist.org/packages/bit3/composer-global-depends)
 
 Global dependency analyser
 ==========================
